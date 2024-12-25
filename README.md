@@ -1,4 +1,4 @@
-# Deep Learning Model Comparisın for Classification
+# Deep Learning Model Comparison for Classification
 Bu projede, atık sınıflandırması için en doğru modeli belirlemek amacıyla popüler derin öğrenme mimarilerinin performansı test edilmiş ve karşılaştırılmıştır.
 Karşılaştırılan modeller:
 
