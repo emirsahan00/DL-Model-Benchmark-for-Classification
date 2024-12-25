@@ -22,9 +22,10 @@ Görüldüğü üzere, **Xception modeli %89.63** test doğruluğu ile diğer mo
 
 Bu projede, herkese açık bir atık sınıflandırma veri seti kullanılmıştır. Veri seti, plastik, metal, kağıt, cam ve organik atık gibi çeşitli atık kategorilerine ait etiketlenmiş görüntülerden oluşmaktadır. 
 
-Veri Seti Boyutu:  Yaklaşık 2527 görüntü   
+Veri Seti Boyutu : Yaklaşık 2527 görüntü   
 Sınıf Sayısı : 6   
-Kaynak: [kaggle.com/datasets/andreasantoro/split-garbage-dataset](URL)
+Kaynak : [Kaggle Split Garbage Dataset](https://www.kaggle.com/datasets/andreasantoro/split-garbage-dataset)
+
 
 ## Uygulama  
 
